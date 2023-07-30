@@ -160,7 +160,7 @@ local warpDimID = 0                           -- Fake dimension for not diable g
 
     local function destinyCheck()
         -- setting the fake position of the gate so it thinks that Destiny is Warping
-        console.setCommand("sgsetfakepos " .. fakeDimPos .. " " .. warpDimID .. " " .. destinyGatePos)
+        console.setCommand("jsg sgsetfakepos " .. fakeDimPos .. " " .. warpDimID .. " " .. destinyGatePos)
         console.executeCommand()
 
         -- setting of the alarm so that everybody knows that FTL is broken
@@ -189,7 +189,7 @@ local warpDimID = 0                           -- Fake dimension for not diable g
                 clock.setCountdown(tonumber(jumpClockSaver:read()))
                 jumpClockSaver:close()                       
                 -- setting the fake position of the gate so it thinks it is on the planet the ship is orbiting
-                console.setCommand("sgsetfakepos " .. fakeDimPos .. " " .. fakeDim[id] .. " " .. destinyGatePos)
+                console.setCommand("jsg sgsetfakepos " .. fakeDimPos .. " " .. fakeDim[id] .. " " .. destinyGatePos)
                 console.executeCommand()
             end
         end
@@ -239,11 +239,11 @@ local warpDimID = 0                           -- Fake dimension for not diable g
     clock_end = event.listen("countdown_zero", function(_)
         if devMode then print("Timed Out!") end
         -- applies ftl entry effect for players within 500 block radius
-        console.setCommand("destinyexecuteftl " .. destinyGatePos .. " " .. effectRadius)
+        console.setCommand("jsg destinyftl " .. destinyGatePos .. " " .. effectRadius)
         console.executeCommand()
         os.sleep(.5)
         -- setting the fake position of the gate so it thinks that Destiny is Warping
-        console.setCommand("sgsetfakepos " .. fakeDimPos .. " " .. warpDimID .. " " .. destinyGatePos)
+        console.setCommand("jsg sgsetfakepos " .. fakeDimPos .. " " .. warpDimID .. " " .. destinyGatePos)
         console.executeCommand()
         destiny.warp()
     end),
@@ -265,12 +265,12 @@ local warpDimID = 0                           -- Fake dimension for not diable g
     -- destiny just warped
     destiny_warped = event.listen("warpFinished", function(_, dim)
         -- applies ftl exit effect for players within 500 block radius
-        console.setCommand("destinyexecuteftl " .. destinyGatePos .. " " .. effectRadius .. " out")
+        console.setCommand("jsg destinyftl " .. destinyGatePos .. " " .. effectRadius .. " out")
         console.executeCommand()
         if devMode then print("Destiny left FTL") end
         if ftlStatusBroken then destinyAlarm() -- the drive broke go fix it
         else -- setting the fake position of the gate so it thinks it is on the planet the ship is orbiting
-            console.setCommand("sgsetfakepos " .. fakeDimPos .. " " .. fakeDim[id] .. " " .. destinyGatePos)
+            console.setCommand("jsg sgsetfakepos " .. fakeDimPos .. " " .. fakeDim[id] .. " " .. destinyGatePos)
             console.executeCommand()
             -- set timer random remain ticks Value (defined in config)
             setTimer()
