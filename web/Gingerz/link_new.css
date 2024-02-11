@@ -1,0 +1,187 @@
+:root {
+	--link-color: #FFFFFF;
+	--link-background: #1F232E;
+    --link-hover-color: #FFB1A4;
+	--link-hover-background: #1F232E;
+	--page-bg-color: #2c0532; /*color under bg image*/
+  }
+
+html {
+	line-height: 1.15;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%
+}
+
+footer,
+header,
+nav {
+	display: block
+}
+
+h1 {
+	font-size: 2em;
+	margin: .67em 0;
+	color: var(--link-color);
+}
+
+main {
+	display: block
+}
+
+a {
+	color: var(--link-color);
+	background-color: transparent;
+	-webkit-text-decoration-skip: objects;
+}
+
+a:hover {
+	color: var(--link-hover-color);
+	background-color: var(--link-hover-background);
+  }
+
+img {
+	border-style: none;
+	max-width: 100%;
+	border-radius: 20px;
+}
+
+html {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-size: 62.5%;
+	overflow-y: scroll;
+}
+
+body {
+	font-family: Inter, sans-serif;
+	font-size: 1.6em;
+	line-height: 1.5;
+	color: var(--text-color);
+	background-image: url(https://link.celestandcharles.com/cc_link_bg.webp);
+	background-color: var(--page-bg-color);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.layout {
+	max-width: 680px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@media screen and (max-width: 700px) {
+	.layout {
+	   width: 80%;
+	}
+ }
+
+.layout_img {
+	z-index: 2;
+	overflow: visible;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.layout_img,
+.layout_img .cover {
+	background-repeat: no-repeat;
+	background-size: contain;
+	max-width: 280px;
+}
+
+.layout__header {
+	position: relative;
+	z-index: 5;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.layout__services {
+	position: relative;
+	z-index: 3
+}
+
+@media (-ms-high-contrast:none),
+not all and (hover:none) {
+}
+
+.header {
+	text-align: center;
+	position: relative
+}
+
+.header h1 {
+	font-size: 2.2rem;
+	margin: 0;
+}
+
+.header_title {
+	display: block;
+	color: inherit;
+	padding: 0rem 0rem 1rem 0rem;
+	cursor: default
+}
+
+.header_title,
+.header_title:active,
+.header_title:focus,
+.header_title:hover,
+.header_title:visited {
+	text-decoration: none;
+	color: inherit
+}
+
+.music-service-list li {
+	margin: 0;
+	padding: 0;
+}
+
+.music-service-list__item {
+	text-align: center;
+	margin-top: 18px;
+	margin-bottom: 18px;
+	word-break: break-word;
+}
+
+.music-service-list__link {
+	cursor: pointer;
+	background-color: var(--link-background);
+	border-radius: initial;
+	border-radius: 25px;
+	-webkit-box-shadow: inset 0 -2px 9px 0 rgba(0, 0, 0, .06);
+	box-shadow: inset 0 -2px 9px 0 rgba(0, 0, 0, .06);
+	text-decoration: none;
+	display: block;
+	-webkit-transition: background-color .3s ease, -webkit-box-shadow .3s ease;
+	transition: background-color .3s ease, -webkit-box-shadow .3s ease;
+	transition: background-color .3s ease, box-shadow .3s ease;
+	transition: background-color .3s ease, box-shadow .3s ease, -webkit-box-shadow .3s ease;
+	padding: 1rem;
+	position: relative;
+	z-index: 0;
+	padding-top: 14px;
+	padding-bottom: 14px;
+}
+
+.music-service-list__link:after {
+	display: block;
+	clear: both;
+	content: "";
+}
+
+@media (-ms-high-contrast:none),
+not all and (hover:none) {
+
+	.music-service-list__link:focus,
+	.music-service-list__link:hover {
+		background-color: var(--link-hover-background);
+		color: var(--link-hover-color);
+		-webkit-box-shadow: inset 0 -2px 9px 0 rgba(0, 0, 0, .06);
+		box-shadow: inset 0 -2px 9px 0 rgba(0, 0, 0, .06);
+		z-index: 1;
+		transition: transform .3s ease;
+		transform: scale(1.05);
+	}
+}
