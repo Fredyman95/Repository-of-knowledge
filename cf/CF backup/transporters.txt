@@ -1,0 +1,133 @@
+<!-- Shields - versions, discord etc. -->
+<p><a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-rings/files/all" rel="nofollow"><img src="https://img.shields.io/badge/for_MC-1.20.1-orange" alt="Minecraft Versions"/></a>
+<a href="https://discord.justsgmod.eu/" rel="nofollow"><img src="https://img.shields.io/discord/881802052488011837?style=flat-square&label= &logo=discord&color=2D2D2D" alt="Discord invite"/></a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/jsg" rel="nofollow"><img src="https://img.shields.io/badge/-JustStargateMod-2d2d2d?style=flat-square&logo=Pinboard&logoColor=3c85e6" alt="JSG"/></a></p>
+
+<!-- Main banner with current version of 1.20.1 -->
+<p><img src="https://github.com/Fredyman95/Repository-of-knowledge/blob/main/cf/rings.png?raw=true" alt="Rings Addon"/>
+
+<!-- Warning JSg is needed -->
+<table style="width:100%">
+  <tr>
+    <th>
+      <h2><p style="font-family:monospace;text-align:center"><strong>IMPORTANT</strong></p></h2>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <p style="font-family:monospace;text-align:center">
+<a href="https://www.curseforge.com/minecraft/mc-mods/jsg">Just Stargate Mod (JSG) is a mandatory dependency for mod. This addon must be paired with Just Stargate Mod (JSG) version 5.1.0.0 or higher.</a></p>
+    </th>
+  </tr>
+</table>
+
+<!-- Minedragon Bust and text -->
+<table style="width:100%">
+  <tr>
+    <td width="30%"> 
+      <p><img src="https://vzge.me/bust/700/171b6e4003d641feac5aa31658de6832.png"></p> 
+    </td>
+    <td></td>
+    <td width="70%">
+        <h2><strong>Introducing Transport Rings</strong></h2><p style="font-family:monospace;text-align:left">Expand your JSG experience with the first official addon from the TauriDev team. This expansion integrates iconic short-range teleportation technology directly into your world, featuring high-fidelity Transport Rings and tactile control panels. Experience seamless transit designed with the same precision and immersion as the core Just Stargate Mod.</p>
+    </td>
+  </tr>
+</table>
+&nbsp;
+&nbsp;
+
+<!-- MrSpagetty Bust and text -->
+<table style="width:100%">
+  <tr>
+    <td width="70%">
+      <h2><strong>Total Re-Engineering</strong></h2><p style="font-family:monospace;text-align:left">We’ve reimagined the Transport Rings from the ground up. Beyond ultra-smooth, modernized animations, the system now features a sophisticated addressing network for pinpoint accuracy. But it doesn't stop at players—the new Rings act as a universal logistics hub, seamlessly teleporting entities, dropped items, and even raw fluids or blocks.</p>
+    </td>
+    <td></td>
+    <td width="30%"> 
+      <p><img src="https://vzge.me/bust/700/086e262ede5040efbcc16131c3b7afa2.png?y=-40"></p> 
+    </td>
+  </tr>
+</table>
+&nbsp;
+&nbsp;
+
+<!-- Trailer-->
+<p><img src="https://media.forgecdn.net/attachments/955/122/trailer.png" alt="Trailer"/>
+<span><iframe width="1000" height="560" src="https://www.youtube.com/embed/Ip-lWaQ3CnE?si=CEX1303_acok3BGX" frameborder="0" allowfullscreen="allowfullscreen"></iframe></span>
+&nbsp;
+&nbsp;
+
+<!-- MrSpagetty Bust and text -->
+<table style="width:100%">
+  <tr>
+    <td width="30%"> 
+      <p><img src="https://vzge.me/bust/700/b9889cd78c4d4b3385bd2c1415363f17.png"></p> 
+    </td>
+    <td></td>
+    <td width="70%">
+        <h2><strong>Interdimensional Reach</strong></h2><p style="font-family:monospace;text-align:left">Break the dimensional barrier. Our reimagined transport rings now bridge entire realms, allowing for instantaneous cross-dimensional travel. Watch your distance — a stable interdimensional lock requires the target rings to remain within range.</p>
+    </td>
+  </tr>
+</table>
+&nbsp;
+&nbsp;
+
+<!-- Support-->
+<p><img src="https://media.forgecdn.net/attachments/956/70/support.png" alt="Support Us"/>
+<p><a href="https://www.paypal.com/donate/?hosted_button_id=ZYD4K634P5HQU" rel="nofollow"><img src="https://media.forgecdn.net/attachments/956/53/pp.png" alt="paypal button"/></a></p>
+&nbsp;
+&nbsp;
+
+<!-- Other projects table -->
+<table style="width:100%">
+  <tr><th> 
+    <p><a href="https://www.curseforge.com/members/minedragoncz_/projects"><img src="https://media.forgecdn.net/attachments/955/959/otherprojects.png"></a></p>
+  </th></tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/1039/875/638565645126910597.png"></p>
+      </a>
+    </th>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-destiny" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/1606/775/256/256/639037353864534454.png"></p> 
+      </a>
+    </th>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-decoration" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/1606/785/256/256/639037358820820174.png"></p> 
+      </a>
+    </th>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/mc-mods/rsj" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/attachments/955/930/logo.png"></p> 
+      </a>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Just Stargate Mod</p></strong>
+      </a>
+    </th>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-destiny" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Destiny addon</p></strong>
+      </a>
+    </th>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-decoration" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Decoration addon</p></strong>
+      </a>
+    </th>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/rsj" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Redstone Jukeboxes</p></strong>
+      </a>
+    </th>
+  </tr>
+</table>

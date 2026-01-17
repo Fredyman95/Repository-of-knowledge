@@ -1,0 +1,110 @@
+<!-- Shields - versions, discord etc. -->
+<p><a href="https://www.curseforge.com/minecraft/mc-mods/jsg/files" rel="nofollow"><img src="https://img.shields.io/badge/for_MC-1.20.1-orange" alt="Minecraft Versions"/></a>
+<a href="https://discord.justsgmod.eu/" rel="nofollow"><img src="https://img.shields.io/discord/881802052488011837?style=flat-square&label= &logo=discord&color=2D2D2D" alt="Discord invite"/></a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/jsg" rel="nofollow"><img src="https://img.shields.io/badge/-JustStargateMod-2d2d2d?style=flat-square&logo=Pinboard&logoColor=3c85e6" alt="JSG"/></a></p>
+
+<!-- Datapck warning -->
+
+<table style="width:100%">
+  <tr>
+    <th>
+      <h2><p style="font-family:monospace;text-align:center"><strong>IMPORTANT</strong></p></h2>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <p style="font-family:monospace;text-align:center">
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg">Just Stargate Mod (JSG) is a mandatory dependency for this datapack. This pack does not contain standalone content and will fail to load without the JSG mod present. Please verify your mod list before creating a new world.</a></p>
+    </th>
+  </tr>
+</table>
+
+<!-- Fredyman Bust and text -->
+<table style="width:100%">
+  <tr>
+    <td width="30%"> 
+      <p><img src="https://vzge.me/bust/700/b9889cd78c4d4b3385bd2c1415363f17.png"></p> 
+    </td>
+    <td></td>
+    <td width="70%">
+        <h2><strong>Crystal Pruning </strong></h2><p style="font-family:monospace;text-align:left">This data pack prunes JSG Budding Blocks from natural world generation (outside of geodes). Keep your underground landscapes clean without losing the loot - Crystal Geodes will still generate normally unless overridden by another pack.</p>
+    </td>
+  </tr>
+</table>
+&nbsp;
+&nbsp;
+
+<!-- Minedragon Bust and text -->
+<table style="width:100%">
+  <tr>
+    <td width="70%">
+      <h2><strong>Deployment & Sector Persistence</strong></h2><p style="font-family:monospace;text-align:left">This data pack must be integrated during the initial world generation (via the Create New World screen). Please be aware that its effects are persistent: once chunks are generated, the modifications remain active even if the pack is subsequently removed."</p>
+    </td>
+    <td></td>
+    <td width="30%"> 
+      <p><img src="https://vzge.me/bust/700/171b6e4003d641feac5aa31658de6832.png?y=-40"></p> 
+    </td>
+  </tr>
+</table>
+&nbsp;
+&nbsp;
+
+<!-- Support -->
+<p><img src="https://media.forgecdn.net/attachments/956/70/support.png" alt="Support Us"/>
+<p><a href="https://www.paypal.com/donate/?hosted_button_id=ZYD4K634P5HQU" rel="nofollow"><img src="https://media.forgecdn.net/attachments/956/53/pp.png" alt="paypal button"/></a></p>
+&nbsp;
+&nbsp;
+
+<!-- Other projects table -->
+<table style="width:100%">
+  <tr><th> 
+    <p><a href="https://www.curseforge.com/members/minedragoncz_/projects"><img src="https://media.forgecdn.net/attachments/955/959/otherprojects.png"></a></p>
+  </th></tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/1039/875/638565645126910597.png"></p>
+      </a>
+    </th>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-rings" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/1241/674/256/256/638812183885157132.png"></p> 
+      </a>
+    </th>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-destiny" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/1606/775/256/256/639037353864534454.png"></p> 
+      </a>
+    </th>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/mc-mods/rsj" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/attachments/955/930/logo.png"></p> 
+      </a>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Just Stargate Mod</p></strong>
+      </a>
+    </th>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-rings" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Transport rings addon</p></strong>
+      </a>
+    </th>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-destiny" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Destiny addon</p></strong>
+      </a>
+    </th>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/rsj" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Redstone Jukeboxes</p></strong>
+      </a>
+    </th>
+  </tr>
+</table>

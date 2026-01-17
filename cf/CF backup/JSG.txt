@@ -1,0 +1,259 @@
+<!-- Shields - versions, discord etc. -->
+<p><a href="https://www.curseforge.com/minecraft/mc-mods/jsg/files" rel="nofollow"><img src="https://cf.way2muchnoise.eu/versions/For MC_537047_all.svg" alt="Minecraft Versions"/></a>
+<a href="https://discord.justsgmod.eu/" rel="nofollow"><img src="https://img.shields.io/discord/881802052488011837?style=flat-square&label= &logo=discord&color=2D2D2D" alt="Discord invite"/></a>
+<a href="https://www.youtube.com/channel/UChxSgOztJWUVqmw7TcZ-uMg" rel="nofollow"><img src="https://img.shields.io/youtube/channel/subscribers/UChxSgOztJWUVqmw7TcZ-uMg?style=flat-square&label= &logo=youtube&logoColor=ff2129&color=2d2d2d" alt="YouTube"/></a>
+<a href="https://github.com/Tau-ri-Dev" rel="nofollow"><img src="https://img.shields.io/badge/-GitHub-2d2d2d?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/></a></p>
+
+<!-- Main banner with current version of 1.20.1 -->
+<table style="width:100%">
+  <tr>
+    <th>
+      <p><img src="https://github.com/Fredyman95/Repository-of-knowledge/blob/main/cf/banner.png?raw=true" alt="Mechanical Update"/>
+    </th>
+  </tr>
+</table>
+
+<!-- Main menu -->
+<table style="width:100%">
+    <tr>
+        <th>
+            <a href="https://wiki.justsgmod.eu/" rel="nofollow"><img src="https://files.justsgmod.eu/wiki.png_1674247302.png" alt="wiki button"/></a>
+        </th>
+        <th>
+            <a href="https://justsgmod.eu/team/" rel="nofollow"><img src="https://files.justsgmod.eu/team.png_1674247732.png" alt="team button"/></a>
+        </th>
+        <th>
+            <a href="https://justsgmod.eu/download/#resourcepacks" rel="nofollow"><img src="https://files.justsgmod.eu/resource_pack.png_1674247319.png" alt="textures button"/></a>
+        </th>
+        <th>
+            <a href="https://soa.justsgmod.eu/" rel="nofollow"><img src="https://files.justsgmod.eu/modpack.png_1674247313.png" alt="modpack button"/></a>
+        </th>
+        <th>
+            <a href="https://discord.justsgmod.eu/" rel="nofollow"><img src="https://files.justsgmod.eu/Discord.png_1674321736.png" alt="discord button"/></a>
+        </th>
+    </tr>
+</table>
+
+<!-- introduction of Mod -->
+<table style="width:100%">
+  <tr>
+    <th>
+      <h2><p style="font-family:monospace;text-align:center">Just Stargate Mod (JSG) brings the Stargate universe to Minecraft with unparalleled detail. Designed for total immersion, it’s the most authentic Stargate mod you can find today.</p></h2>
+    </th>
+  </tr>
+</table>
+
+<!-- Minedragon Bust and text -->
+<table style="width:100%">
+  <tr>
+    <td width="30%"> 
+      <p><img src="https://vzge.me/bust/700/171b6e4003d641feac5aa31658de6832.png"></p> 
+    </td>
+    <td width="70%"> 
+      <h2><strong>Introducing JSG</strong></h2><p style="font-family:monospace;text-align:left">JSG is a mod originated from the famous TV series Stargate. This mod adds devices like Stargates and DHDs into the game. You will also find a wide variety of materials for creating the aforementioned devices, such as Trinium, Titanium, Naquadah, and more. The mod also includes three Iris variants, allowing you to protect your base from unwanted guests.</p>
+    </td>
+  </tr>
+</table>
+&nbsp;
+&nbsp;
+
+<!-- Fredyman Bust and text -->
+<table style="width:100%">
+  <tr>
+    <td width="70%">
+      <h2><strong>Understanding JSG</strong></h2><p style="font-family:monospace;text-align:left">JSG is focused on delivering an authentic experience, expanding upon standard Minecraft mechanics while introducing its own unique systems. The mod features new crafting methods utilizing fluids, a way to obtain budding blocks through crystallization, and much more. Best of all, most devices are fully interactive within the open world! Want to dial the gate? You’ll need to press the buttons directly on the DHD—no GUIs required.</p>
+    </td>
+    <td width="30%"> 
+      <p><img src="https://vzge.me/bust/700/b9889cd78c4d4b3385bd2c1415363f17.png?y=-40"></p> 
+    </td>
+  </tr>
+</table>
+&nbsp;
+&nbsp;
+
+<!-- Trailer-->
+<p><img src="https://media.forgecdn.net/attachments/955/122/trailer.png" alt="Trailer"/>
+<span><iframe width="1000" height="560" src="https://www.youtube.com/embed/Ip-lWaQ3CnE?si=CEX1303_acok3BGX" frameborder="0" allowfullscreen="allowfullscreen"></iframe></span>
+&nbsp;
+&nbsp;
+
+<!--SG Journey -->
+<hr/>
+<table style="width:100%">
+  <tr>
+    <th>
+      <h2><p style="font-family:monospace;text-align:center">Looking for a Vanilla-style Stargate mod?</p></h2>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <p style="font-family:monospace;text-align:center"><a href="https://www.curseforge.com/minecraft/mc-mods/sgjourney">If you prefer a mod that stays closer to the classic Minecraft aesthetic, you have to try Stargate Journey. Stargate Journey is a masterpiece of 'Minecrafty' design, blending the Stargate universe perfectly with the game’s original look.</a></p>
+    </th>
+  </tr>
+</table>
+<hr/>
+&nbsp;
+&nbsp;
+
+<!-- MrSpagetty Bust and text -->
+<table style="width:100%">
+  <tr>
+    <td width="30%"> 
+      <p><img src="https://vzge.me/bust/700/086e262ede5040efbcc16131c3b7afa2.png"></p> 
+    </td>
+    <td width="70%">
+        <h2><strong>Explore our add-ons</strong></h2><p style="font-family:monospace;text-align:left">JSG can be expanded with official add-ons. Currently available are add-ons introducing content from Stargate Universe, decorative blocks, and Transport Rings. The Transport Rings have undergone significant improvements, making them a truly viable short-range teleportation system.</p>
+    </td>
+  </tr>
+</table>
+&nbsp;
+&nbsp;
+
+<!-- Harald Bust and text -->
+<table style="width:100%">
+  <tr>
+    <td width="70%">
+      <h2><strong>Meet the Artists</strong></h2><p style="font-family:monospace;text-align:left">The mod’s visuals are the work of two key individuals without whom JSG wouldn't look the way it does today. Our graphics team has recently expanded to include a new member, EmrysHilda, who perfectly complements the veteran artist, HaraldDeLuca!<br> The current update features work from both 3D artists, and you can look forward to more of their creations in the future.</p>
+    </td>
+    <td width="30%"> 
+      <p><img src="https://vzge.me/bust/700/e46bf5eee4eb403f9054e27ae183e5c2.png?y=-40"></p> 
+    </td>
+  </tr>
+</table>
+&nbsp;
+&nbsp;
+
+<!-- Emrys Bust and text -->
+<table style="width:100%">
+  <tr>
+    <td width="30%"> 
+      <p><img src="https://vzge.me/bust/700/a398dd49-d995-4b49-9213-1ee9972240a3.png"></p>
+    </td>
+    <td width="70%">
+        <h2><strong>Need a Hand?</strong></h2><p style="font-family:monospace;text-align:left">For the quickest support, we recommend heading over to our Discord or GitHub. We check those platforms much more often than the comments here. If you find a bug or need help, please let us know there!</p>
+    </td>
+  </tr>
+</table>
+&nbsp;
+&nbsp;
+
+<!-- Support-->
+<p><img src="https://media.forgecdn.net/attachments/956/70/support.png" alt="Support Us"/>
+<p><a href="https://www.paypal.com/donate/?hosted_button_id=ZYD4K634P5HQU" rel="nofollow"><img src="https://media.forgecdn.net/attachments/956/53/pp.png" alt="paypal button"/></a></p>
+&nbsp;
+&nbsp;
+
+<!-- Credits -->
+<hr/>
+<table style="width:100%">
+  <tr>
+    <th>
+      <h2><p style="font-family:monospace;text-align:center">Credits & Acknowledgments</p></h2>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <p style="font-family:monospace;text-align:center">We’ve built this project using the <a href="https://www.curseforge.com/minecraft/mc-mods/aunis">Aunis mod</a> as a base. We are in contact with the original author regarding this repository, and all necessary credits are maintained. See the License for more details. <br><br><a href="https://justsgmod.eu/team/#">— TauriDev Team</a></p>
+    </th>
+  </tr>
+</table>
+&nbsp;
+&nbsp;
+
+<!-- Other projects table -->
+<table style="width:100%">
+  <tr><th> 
+    <p><a href="https://www.curseforge.com/members/minedragoncz_/projects"><img src="https://media.forgecdn.net/attachments/955/959/otherprojects.png"></a></p>
+  </th></tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/1039/875/638565645126910597.png"></p>
+      </a>
+    </th>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-rings" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/1241/674/256/256/638812183885157132.png"></p> 
+      </a>
+    </th>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-decoration" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/1606/785/256/256/639037358820820174.png"></p> 
+      </a>
+    </th>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-destiny" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/1606/775/256/256/639037353864534454.png"></p> 
+      </a>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Just Stargate Mod</p></strong>
+      </a>
+    </th>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-rings" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Transport rings addon</p></strong>
+      </a>
+    </th>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-decoration" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Decoration addon</p></strong>
+      </a>
+    </th>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-destiny" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Destiny addon</p></strong>
+      </a>
+    </th>
+  </tr>
+  <tr>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/customization/jsg-addon-origins" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/910/426/256/256/638364466607972492.png"></p>
+      </a>
+    </th>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/texture-packs/jsg-sd" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/906/937/256/256/638357491075995069.png"></p> 
+      </a>
+    </th>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/texture-packs/jsg-sample" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/1375/167/256/256/638892438687767025.png"></p> 
+      </a>
+    </th>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/mc-mods/rsj" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/attachments/955/930/logo.png"></p> 
+      </a>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/customization/jsg-addon-origins" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Additional Origins</p></strong>
+      </a>
+    </th>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/texture-packs/jsg-sd" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">SD resource pack</p></strong>
+      </a>
+    </th>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/texture-packs/jsg-sample" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Sample resource pack</p></strong>
+      </a>
+    </th>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/rsj" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Redstone Jukeboxes</p></strong>
+      </a>
+    </th>
+  </tr>
+</table>

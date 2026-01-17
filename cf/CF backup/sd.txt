@@ -1,0 +1,110 @@
+<!-- Shields - versions, discord etc. -->
+<p><a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-rings/files/all" rel="nofollow"><img src="https://img.shields.io/badge/for_MC-1.12.2-orange" alt="Minecraft Versions"/></a>
+<a href="https://discord.justsgmod.eu/" rel="nofollow"><img src="https://img.shields.io/discord/881802052488011837?style=flat-square&label= &logo=discord&color=2D2D2D" alt="Discord invite"/></a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/jsg" rel="nofollow"><img src="https://img.shields.io/badge/-JustStargateMod-2d2d2d?style=flat-square&logo=Pinboard&logoColor=3c85e6" alt="JSG"/></a></p>
+
+<!-- Warning JSg is needed -->
+<table style="width:100%">
+  <tr>
+    <th>
+      <h2><p style="font-family:monospace;text-align:center"><strong>IMPORTANT</strong></p></h2>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <p style="font-family:monospace;text-align:center">
+<a href="https://www.curseforge.com/minecraft/mc-mods/jsg">Just Stargate Mod (JSG) is a mandatory dependency for resource pack. This resource must be paired with Just Stargate Mod (JSG) as it exclusively modifies JSG textures and assets.</a></p>
+    </th>
+  </tr>
+</table>
+
+
+<!-- Minedragon Bust and text -->
+<table style="width:100%">
+  <tr>
+    <td width="30%"> 
+      <p><img src="https://vzge.me/bust/700/171b6e4003d641feac5aa31658de6832.png"></p> 
+    </td>
+    <td></td>
+    <td width="70%">
+        <h2><strong></strong>Legacy Assets Only</h2><p style="font-family:monospace;text-align:left">This resource pack is exclusively available for JSG on Minecraft 1.12.2. Please be aware that subsequent versions of both JSG and Minecraft have undergone significant optimization. This resource pack optimizes high-impact system assets. Specifically, it modifies the following critical textures:  Event Horizon Animated, Event Horizon Kawoosh Animated and desaturated versions of them.</p>
+    </td>
+  </tr>
+</table>
+&nbsp;
+&nbsp;
+
+<!-- Harald Bust and text -->
+<table style="width:100%">
+  <tr>
+    <td width="70%">
+      <h2><strong>Micro-Scale Engineering</strong></h2><p style="font-family:monospace;text-align:left">Event Horizon textures scaled to 50%. This optimization reduces EH texture load times by 75%, significantly improving initialization speeds. A mandatory choice for low-spec environments or massive modpacks looking to maximize frame stability.</p>
+    </td>
+    <td></td>
+    <td width="30%"> 
+      <p><img src="https://vzge.me/bust/700/e46bf5eee4eb403f9054e27ae183e5c2.png?y=-40"></p> 
+    </td>
+  </tr>
+</table>
+&nbsp;
+&nbsp;
+
+<!-- Support-->
+<p><img src="https://media.forgecdn.net/attachments/956/70/support.png" alt="Support Us"/>
+<p><a href="https://www.paypal.com/donate/?hosted_button_id=ZYD4K634P5HQU" rel="nofollow"><img src="https://media.forgecdn.net/attachments/956/53/pp.png" alt="paypal button"/></a></p>
+&nbsp;
+&nbsp;
+
+<!-- Other projects table -->
+<table style="width:100%">
+  <tr><th> 
+    <p><a href="https://www.curseforge.com/members/minedragoncz_/projects"><img src="https://media.forgecdn.net/attachments/955/959/otherprojects.png"></a></p>
+  </th></tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/1039/875/638565645126910597.png"></p>
+      </a>
+    </th>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/texture-packs/jsg-sample" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/1375/167/256/256/638892438687767025.png"></p> 
+      </a>
+    </th>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/texture-packs/jsg-retro" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/1374/535/256/256/638892186313122672.png"></p> 
+      </a>
+    </th>
+    <th> 
+      <a href="https://www.curseforge.com/minecraft/mc-mods/rsj" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/attachments/955/930/logo.png"></p> 
+      </a>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Just Stargate Mod</p></strong>
+      </a>
+    </th>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/texture-packs/jsg-sample" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Sample resource pack</p></strong>
+      </a>
+    </th>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/texture-packs/jsg-retro" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Retro resource pack</p></strong>
+      </a>
+    </th>
+    <th>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/rsj" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Redstone Jukeboxes</p></strong>
+      </a>
+    </th>
+  </tr>
+</table>
