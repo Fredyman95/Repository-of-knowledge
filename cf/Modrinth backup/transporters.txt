@@ -53,8 +53,7 @@
 
 <!-- Trailer-->
 <p><img src="https://media.forgecdn.net/attachments/955/122/trailer.png" alt="Trailer"/>
-<h2>Comming soon</h2>
-<!-- <span><iframe width="1000" height="560" src="https://www.youtube.com/embed/EXTjRqLnC5I" frameborder="0" allowfullscreen="allowfullscreen"></iframe></span> -->
+<span><iframe width="1000" height="560" src="https://www.youtube.com/embed/EXTjRqLnC5I" frameborder="0" allowfullscreen="allowfullscreen"></iframe></span>
 &nbsp;
 &nbsp;
 
@@ -82,51 +81,51 @@
 <!-- Other projects table -->
 <table style="width:100%">
   <tr><th> 
-    <p><a href="https://www.curseforge.com/members/minedragoncz_/projects"><img src="https://media.forgecdn.net/attachments/955/959/otherprojects.png"></a></p>
+    <p><a href="https://modrinth.com/organization/tauri-development"><img src="https://media.forgecdn.net/attachments/955/959/otherprojects.png"></a></p>
   </th></tr>
 </table>
 
 <table style="width:100%">
   <tr>
     <th> 
-      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg" target="_blank" style="text-decoration:none" rel="nofollow">
+      <a href="https://modrinth.com/mod/jsg" target="_blank" style="text-decoration:none" rel="nofollow">
         <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/1039/875/638565645126910597.png"></p>
       </a>
     </th>
     <th> 
-      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-destiny" target="_blank" style="text-decoration:none" rel="nofollow">
+      <a href="https://modrinth.com/project/jsg-addon-destiny" target="_blank" style="text-decoration:none" rel="nofollow">
         <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/1606/775/256/256/639037353864534454.png"></p> 
       </a>
     </th>
     <th> 
-      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-decoration" target="_blank" style="text-decoration:none" rel="nofollow">
+      <a href="https://modrinth.com/project/jsg-addon-decoration" target="_blank" style="text-decoration:none" rel="nofollow">
         <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/1606/785/256/256/639037358820820174.png"></p> 
       </a>
     </th>
     <th> 
-      <a href="https://www.curseforge.com/minecraft/mc-mods/rsj" target="_blank" style="text-decoration:none" rel="nofollow">
+      <a href="https://modrinth.com/mod/rsj" target="_blank" style="text-decoration:none" rel="nofollow">
         <p><img width="150" height="150" src="https://media.forgecdn.net/attachments/955/930/logo.png"></p> 
       </a>
     </th>
   </tr>
   <tr>
     <th>
-      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg" target="_blank" style="text-decoration:none" rel="nofollow">
+      <a href="https://modrinth.com/mod/jsg" target="_blank" style="text-decoration:none" rel="nofollow">
         <strong><p style="font-family:monospace;text-align:center">Just Stargate Mod</p></strong>
       </a>
     </th>
     <th>
-      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-destiny" target="_blank" style="text-decoration:none" rel="nofollow">
+      <a href="https://modrinth.com/project/jsg-addon-destiny" target="_blank" style="text-decoration:none" rel="nofollow">
         <strong><p style="font-family:monospace;text-align:center">Destiny addon</p></strong>
       </a>
     </th>
     <th>
-      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-decoration" target="_blank" style="text-decoration:none" rel="nofollow">
+      <a href="https://modrinth.com/project/jsg-addon-decoration" target="_blank" style="text-decoration:none" rel="nofollow">
         <strong><p style="font-family:monospace;text-align:center">Decoration addon</p></strong>
       </a>
     </th>
     <th>
-      <a href="https://www.curseforge.com/minecraft/mc-mods/rsj" target="_blank" style="text-decoration:none" rel="nofollow">
+      <a href="https://modrinth.com/mod/rsj" target="_blank" style="text-decoration:none" rel="nofollow">
         <strong><p style="font-family:monospace;text-align:center">Redstone Jukeboxes</p></strong>
       </a>
     </th>

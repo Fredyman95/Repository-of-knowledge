@@ -1,0 +1,110 @@
+<!-- Shields - versions, discord etc. -->
+<p><a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-rings/files/all" rel="nofollow"><img src="https://img.shields.io/badge/for_MC-1.20.1-orange" alt="Minecraft Versions"/></a>
+<a href="https://discord.justsgmod.eu/" rel="nofollow"><img src="https://img.shields.io/discord/881802052488011837?style=flat-square&label= &logo=discord&color=2D2D2D" alt="Discord invite"/></a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/jsg" rel="nofollow"><img src="https://img.shields.io/badge/-JustStargateMod-2d2d2d?style=flat-square&logo=Pinboard&logoColor=3c85e6" alt="JSG"/></a></p>
+
+<!-- Warning JSg is needed -->
+<table style="width:100%">
+  <tr>
+    <th>
+      <h2><p style="font-family:monospace;text-align:center"><strong>IMPORTANT</strong></p></h2>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <p style="font-family:monospace;text-align:center">
+<a href="https://www.curseforge.com/minecraft/mc-mods/jsg">Just Stargate Mod (JSG) is a mandatory dependency for resource pack. This resource must be paired with Just Stargate Mod (JSG) as it exclusively modifies JSG textures and assets.</a></p>
+    </th>
+  </tr>
+</table>
+
+
+<!-- Fredyman Bust and text -->
+<table style="width:100%">
+  <tr>
+    <td width="30%"> 
+      <p><img src="https://vzge.me/bust/700/b9889cd78c4d4b3385bd2c1415363f17.png"></p> 
+    </td>
+    <td></td>
+    <td width="70%">
+        <h2><strong></strong>Development Template</h2><p style="font-family:monospace;text-align:left">This is a standalone template, not a visual overhaul. It serves exclusively as a structural foundation for developing custom assets. Use this template to ensure your resource packs are properly formatted and fully compatible with the core Just Stargate Mod.</p>
+    </td>
+  </tr>
+</table>
+&nbsp;
+&nbsp;
+
+<!-- Minedragon Bust and text -->
+<table style="width:100%">
+  <tr>
+    <td width="70%">
+      <h2><strong>Installation</strong></h2><p style="font-family:monospace;text-align:left">To ensure texture compatibility, you must match the resource pack with your JSG version. If you are running JSG 5.0.6.1 or older, use resource pack 1.0.0.0. For JSG v5.1.0.0 and newer, the updated 1.0.1.0 is required for optimal functionality.</p>
+    </td>
+    <td></td>
+    <td width="30%"> 
+      <p><img src="https://vzge.me/bust/700/171b6e4003d641feac5aa31658de6832.png?y=-40"></p> 
+    </td>
+  </tr>
+</table>
+&nbsp;
+&nbsp;
+
+<!-- Support-->
+<p><img src="https://media.forgecdn.net/attachments/956/70/support.png" alt="Support Us"/>
+<p><a href="https://www.paypal.com/donate/?hosted_button_id=ZYD4K634P5HQU" rel="nofollow"><img src="https://media.forgecdn.net/attachments/956/53/pp.png" alt="paypal button"/></a></p>
+&nbsp;
+&nbsp;
+
+<!-- Other projects table -->
+<table style="width:100%">
+  <tr><th> 
+    <p><a href="https://modrinth.com/organization/tauri-development"><img src="https://media.forgecdn.net/attachments/955/959/otherprojects.png"></a></p>
+  </th></tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th> 
+      <a href="https://modrinth.com/mod/jsg" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/1039/875/638565645126910597.png"></p>
+      </a>
+    </th>
+    <th> 
+      <a href="https://modrinth.com/resourcepack/jsg-sd" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/906/937/256/256/638357491075995069.png"></p> 
+      </a>
+    </th>
+    <th> 
+      <a href="https://modrinth.com/resourcepack/jsg-retro" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/1374/535/256/256/638892186313122672.png"></p> 
+      </a>
+    </th>
+    <th> 
+      <a href="https://modrinth.com/mod/rsj" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/attachments/955/930/logo.png"></p> 
+      </a>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <a href="https://modrinth.com/mod/jsg" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Just Stargate Mod</p></strong>
+      </a>
+    </th>
+    <th>
+      <a href="https://modrinth.com/resourcepack/jsg-sd" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">SD resource pack</p></strong>
+      </a>
+    </th>
+    <th>
+      <a href="https://modrinth.com/resourcepack/jsg-retro" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Retro resource pack</p></strong>
+      </a>
+    </th>
+    <th>
+      <a href="https://modrinth.com/mod/rsj" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Redstone Jukeboxes</p></strong>
+      </a>
+    </th>
+  </tr>
+</table>

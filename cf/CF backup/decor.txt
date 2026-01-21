@@ -53,7 +53,7 @@
 
 <!-- Trailer-->
 <p><img src="https://media.forgecdn.net/attachments/955/122/trailer.png" alt="Trailer"/>
-<span><iframe width="1000" height="560" src="https://www.youtube.com/embed/Ip-lWaQ3CnE?si=CEX1303_acok3BGX" frameborder="0" allowfullscreen="allowfullscreen"></iframe></span>
+<span><iframe width="1000" height="560" src="https://www.youtube.com/embed/SeZOdZswP_Q" frameborder="0" allowfullscreen="allowfullscreen"></iframe></span>
 &nbsp;
 &nbsp;
 

@@ -4,7 +4,7 @@
 <a href="https://www.curseforge.com/minecraft/mc-mods/jsg" rel="nofollow"><img src="https://img.shields.io/badge/-JustStargateMod-2d2d2d?style=flat-square&logo=Pinboard&logoColor=3c85e6" alt="JSG"/></a></p>
 
 <!-- Main banner with current version of 1.20.1 -->
-<p><img src="https://github.com/Fredyman95/Repository-of-knowledge/blob/main/cf/destiny.png?raw=true" alt="Destiny Addon"/>
+<p><img src="https://github.com/Fredyman95/Repository-of-knowledge/blob/main/cf/decor.png?raw=true" alt="Decor Addon"/>
 
 <!-- Warning JSg is needed -->
 <table style="width:100%">
@@ -29,7 +29,7 @@
     </td>
     <td></td>
     <td width="70%">
-        <h2><strong>Devices from Stargate Universe</strong></h2><p style="font-family:monospace;text-align:left">Expand your JSG experience with the another official addon from the TauriDev team. This expansion integrates iconic most iconic technology from Stargate Universe directly into your world, featuring high-quality models of bearing, floor chevron and much more.</p>
+        <h2><strong>More then Decoration</strong></h2><p style="font-family:monospace;text-align:left">Elevate your world with the next official expansion from the TauriDev team. This addon introduces decorative blocks and specialized features designed to complement the core JSG experience. Beyond unique Stargate aesthetics, it seamlessly extends the vanilla palette with custom trapdoors, doors, and boats—bridging the gap between Stargate technology and classic Minecraft design.</p>
     </td>
   </tr>
 </table>
@@ -40,7 +40,7 @@
 <table style="width:100%">
   <tr>
     <td width="70%">
-      <h2><strong>Active Development</strong></h2><p style="font-family:monospace;text-align:left">We are constantly expanding the arsenal. Future updates including CO2 vents, ramps, consoles are already on the horizon. Most importantly, we’ve shifted to a full-crafting economy—every piece of tech, now and in the future, is 100% craftable in survival mode.</p>
+      <h2><strong>Building Palette</strong></h2><p style="font-family:monospace;text-align:left">This is only the beginning. Future updates will transcend basic block palettes -  specialized structural blocks designed for cinematic accuracy. Whether you are recreating the corridors of the SGC, high-tech Atlantis city, or the ancient spaceship Destiny, our addon provides the essential blocks. This is your foundation for building the most iconic locations from Stargate series.</p>
     </td>
     <td></td>
     <td width="30%"> 
@@ -53,8 +53,10 @@
 
 <!-- Trailer-->
 <p><img src="https://media.forgecdn.net/attachments/955/122/trailer.png" alt="Trailer"/>
-<span><iframe width="1000" height="560" src="https://www.youtube.com/embed/Y708X1U8KME" frameborder="0" allowfullscreen="allowfullscreen"></iframe></span>
+<span><iframe width="1000" height="560" src="https://www.youtube.com/embed/SeZOdZswP_Q" frameborder="0" allowfullscreen="allowfullscreen"></iframe></span>
 &nbsp;
+&nbsp;
+
 &nbsp;
 
 <!-- Support-->
@@ -64,53 +66,49 @@
 &nbsp;
 
 <!-- Other projects table -->
-<table style="width:100%">
-  <tr><th> 
-    <p><a href="https://www.curseforge.com/members/minedragoncz_/projects"><img src="https://media.forgecdn.net/attachments/955/959/otherprojects.png"></a></p>
-  </th></tr>
-</table>
+<p><a href="https://modrinth.com/organization/tauri-development"><img src="https://media.forgecdn.net/attachments/955/959/otherprojects.png"></a></p>
 
 <table style="width:100%">
   <tr>
     <th> 
-      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg" target="_blank" style="text-decoration:none" rel="nofollow">
+      <a href="https://modrinth.com/mod/jsg" target="_blank" style="text-decoration:none" rel="nofollow">
         <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/1039/875/638565645126910597.png"></p>
       </a>
     </th>
     <th> 
-      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-rings" target="_blank" style="text-decoration:none" rel="nofollow">
+      <a href="https://modrinth.com/project/jsg-addon-rings" target="_blank" style="text-decoration:none" rel="nofollow">
         <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/1241/674/256/256/638812183885157132.png"></p> 
       </a>
     </th>
     <th> 
-      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-decoration" target="_blank" style="text-decoration:none" rel="nofollow">
-        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/1606/785/256/256/639037358820820174.png"></p> 
+      <a href="https://modrinth.com/project/jsg-addon-destiny" target="_blank" style="text-decoration:none" rel="nofollow">
+        <p><img width="150" height="150" src="https://media.forgecdn.net/avatars/thumbnails/1606/775/256/256/639037353864534454.png"></p> 
       </a>
     </th>
     <th> 
-      <a href="https://www.curseforge.com/minecraft/mc-mods/rsj" target="_blank" style="text-decoration:none" rel="nofollow">
+      <a href="https://modrinth.com/mod/rsj" target="_blank" style="text-decoration:none" rel="nofollow">
         <p><img width="150" height="150" src="https://media.forgecdn.net/attachments/955/930/logo.png"></p> 
       </a>
     </th>
   </tr>
   <tr>
     <th>
-      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg" target="_blank" style="text-decoration:none" rel="nofollow">
+      <a href="https://modrinth.com/mod/jsg" target="_blank" style="text-decoration:none" rel="nofollow">
         <strong><p style="font-family:monospace;text-align:center">Just Stargate Mod</p></strong>
       </a>
     </th>
     <th>
-      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-rings" target="_blank" style="text-decoration:none" rel="nofollow">
+      <a href="https://modrinth.com/project/jsg-addon-rings" target="_blank" style="text-decoration:none" rel="nofollow">
         <strong><p style="font-family:monospace;text-align:center">Transport rings addon</p></strong>
       </a>
     </th>
     <th>
-      <a href="https://www.curseforge.com/minecraft/mc-mods/jsg-addon-decoration" target="_blank" style="text-decoration:none" rel="nofollow">
-        <strong><p style="font-family:monospace;text-align:center">Decoration addon</p></strong>
+      <a href="https://modrinth.com/project/jsg-addon-destiny" target="_blank" style="text-decoration:none" rel="nofollow">
+        <strong><p style="font-family:monospace;text-align:center">Destiny addon</p></strong>
       </a>
     </th>
     <th>
-      <a href="https://www.curseforge.com/minecraft/mc-mods/rsj" target="_blank" style="text-decoration:none" rel="nofollow">
+      <a href="https://modrinth.com/mod/rsj" target="_blank" style="text-decoration:none" rel="nofollow">
         <strong><p style="font-family:monospace;text-align:center">Redstone Jukeboxes</p></strong>
       </a>
     </th>
